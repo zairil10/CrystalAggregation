@@ -1,8 +1,5 @@
 # Crystal Highlighter — *Blumea balsamifera*
-   Adaptive computer vision tool for detecting and highlighting Blumea balsamifera crystals in microscopy images using CLAHE, dual-mask (grayscale + HSV color), and watershed segmentation.
-
-
-Detects and highlights *Blumea balsamifera* crystals in microscopy images using adaptive CLAHE normalization, dual grayscale/HSV masking, and watershed segmentation.
+   Adaptive computer vision tool for detecting and highlighting *Blumea balsamifera* crystals in microscopy images using CLAHE, dual-mask (grayscale + HSV color), and watershed segmentation.
 
 ---
 
