@@ -121,7 +121,3 @@ Done!
 ```
 
 ---
-
-## License
-
-MIT License
